@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus Keuter Personal Log</title>
+    <link>http://beta.markuskeuter.nl/</link>
+    <description>Recent content on Markus Keuter Personal Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2017 09:38:13 +0100</lastBuildDate>
+    <atom:link href="http://beta.markuskeuter.nl/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>my beta site</title>
+      <link>http://beta.markuskeuter.nl/post/my-beta-site/</link>
+      <pubDate>Tue, 14 Feb 2017 09:38:13 +0100</pubDate>
+      
+      <guid>http://beta.markuskeuter.nl/post/my-beta-site/</guid>
+      <description>&lt;p&gt;Dit is een hugo beta site test voor markuskeuter.nl&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
